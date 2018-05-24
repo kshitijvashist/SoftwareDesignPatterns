@@ -1,0 +1,14 @@
+package com.designpatterns.creationalpatterns_AbstractFactory;
+
+public class TestingAPI implements TestingInterface{
+
+	@Override
+	public void testing() {
+		// TODO Auto-generated method stub
+		System.out.println("Testing API");
+	}
+
+	
+
+}
+
